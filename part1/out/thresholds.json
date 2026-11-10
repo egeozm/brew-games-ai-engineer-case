@@ -1,0 +1,8 @@
+{
+  "t_continue": 0.471,
+  "t_stop": 0.345,
+  "ltv180_over_ltv30_median": 2.121,
+  "ltv365_over_ltv30_median": 2.897,
+  "median_ad_test_cost_usd": 2325.0,
+  "note": "continue if LTV30/CPI lower bound >= 1/k180 (pays back in ~6 months if the power law holds); stop if upper bound < 1/k365 (cannot pay back within a year); otherwise retest."
+}

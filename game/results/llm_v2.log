@@ -1,0 +1,37 @@
+llm seed 1: loss wave 4 hp 0 steps 45 66.2s calls 16 tok 89683/1654 $0.000
+DAILY QUOTA reached during seed 2; game discarded. 1 games saved. Rerun the same command later to resume.
+quota message: DAILY_QUOTA Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 10h7m44.041397392s.",
+DAILY QUOTA reached during seed 2; game discarded. 1 games saved. Rerun the same command later to resume.
+llm seed 2: loss wave 6 hp 0 steps 64 207.7s calls 20 tok 135307/2101 $0.000
+llm seed 3: loss wave 4 hp 0 steps 50 113.8s calls 20 tok 139082/2039 $0.000
+llm seed 4: loss wave 5 hp 0 steps 57 198.7s calls 25 tok 165923/2502 $0.000
+llm seed 5: loss wave 1 hp 0 steps 11 48.1s calls 7 tok 27904/487 $0.000
+llm seed 6: loss wave 6 hp 0 steps 68 255.5s calls 26 tok 171765/2801 $0.000
+llm seed 7: loss wave 4 hp 0 steps 51 102.6s calls 20 tok 134937/1951 $0.000
+llm seed 8: loss wave 8 hp 0 steps 106 218.9s calls 40 tok 274658/3492 $0.000
+llm seed 9: loss wave 5 hp 0 steps 69 158.4s calls 20 tok 123085/2205 $0.000
+llm seed 10: loss wave 1 hp 0 steps 19 86.8s calls 14 tok 83133/1103 $0.000
+llm seed 11: loss wave 1 hp 0 steps 16 39.4s calls 8 tok 34730/564 $0.000
+llm seed 12: loss wave 4 hp 0 steps 37 140.7s calls 17 tok 82033/1383 $0.000
+llm seed 13: loss wave 6 hp 0 steps 58 189.5s calls 21 tok 139816/1937 $0.000
+llm seed 14: loss wave 1 hp 0 steps 10 49.0s calls 9 tok 40570/716 $0.000
+llm seed 15: loss wave 5 hp 0 steps 63 317.1s calls 31 tok 182817/2988 $0.000
+llm seed 16: loss wave 5 hp 0 steps 54 216.8s calls 19 tok 79197/2100 $0.000
+llm seed 17: loss wave 1 hp 0 steps 10 45.6s calls 6 tok 22687/415 $0.000
+llm seed 18: loss wave 1 hp 0 steps 9 115.8s calls 10 tok 47174/717 $0.000
+llm seed 19: loss wave 1 hp 0 steps 18 44.5s calls 11 tok 58282/1058 $0.000
+llm seed 20: loss wave 5 hp 0 steps 59 203.6s calls 26 tok 147523/2013 $0.000
+llm seed 21: loss wave 1 hp 0 steps 16 72.4s calls 9 tok 41982/831 $0.000
+llm seed 22: loss wave 5 hp 0 steps 84 174.4s calls 33 tok 241860/2937 $0.000
+llm seed 23: loss wave 1 hp 0 steps 19 69.6s calls 14 tok 80689/987 $0.000
+quota message: DAILY_QUOTA Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 500, model: gemini-3.5-flash-lite, description: Generate content requests per day limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 15h58m7.07440432s.",
+DAILY QUOTA reached during seed 24; game discarded. 23 games saved. Rerun the same command later to resume.
+llm seed 24: loss wave 1 hp 0 steps 1 0.3s
+llm seed 24: loss wave 4 hp 0 steps 60 100.3s calls 24 tok 145239/2320 $0.000
+llm seed 25: loss wave 4 hp 0 steps 54 98.8s calls 23 tok 143090/2420 $0.000
+llm seed 26: loss wave 6 hp 0 steps 63 64.3s calls 15 tok 64151/1629 $0.000
+llm seed 27: loss wave 4 hp 0 steps 54 104.1s calls 24 tok 145714/2360 $0.000
+llm seed 28: loss wave 5 hp 0 steps 54 115.6s calls 27 tok 151913/2297 $0.000
+llm seed 29: loss wave 4 hp 0 steps 49 73.9s calls 17 tok 126326/1872 $0.000
+llm seed 30: loss wave 5 hp 0 steps 52 94.3s calls 22 tok 140237/2159 $0.000
+llm.js: 0/30 wins, avg wave 3.77

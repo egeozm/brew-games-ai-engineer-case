@@ -1,0 +1,15 @@
+# secrets
+.env
+**/.env
+# local study material (not part of the submission)
+study/
+# the brief itself
+Brew Games - AI Engineer Case.pdf
+# early trial runs, not used in any result
+**/*smoke*
+**/*smoke*/
+# system / caches
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Bag Battler</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#20b6f2">
+<link rel="icon" href="assets/ui/coin.png">
+<link rel="preload" href="assets/fonts/lilita-one.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="ui/style.css">
+</head><body>
+<div id="stage">
+<div id="app">
+  <!-- top: the battlefield. Soldiers left, the next wave right. Battles play here. -->
+  <section id="field">
+    <div class="sky"><i class="cloud c1"></i><i class="cloud c2"></i><i class="cloud c3"></i></div>
+    <div class="ground"></div>
+    <header id="top">
+      <div class="waveBox" data-tip="text" data-tiptext="Survive every wave to win. The last wave is the boss."><div class="pill wavePill" id="waveTxt"></div><div id="pips"></div></div>
+      <div class="pill goldBox" id="goldBox" data-tip="text"><img src="assets/ui/coin.png" alt=""><b id="goldVal"></b></div>
+    </header>
+    <div id="tools">
+      <button id="helpBtn" class="sq blue" title="How to play">?</button>
+      <button id="tabReplay" class="sq blue" title="Replay a bot log"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button>
+      <button id="tabPlay" class="sq blue on" hidden title="Back to play">&times;</button>
+    </div>
+    <div id="turnBar" hidden><span id="turnTxt"></span><button id="skipBtn" class="chunky grey small">Skip</button></div>
+    <div id="army"></div>
+    <div id="armyTag" class="tag">
+      <span id="dmgChip" class="chip dmg" data-tip="text"></span>
+      <div class="pill hpBox" data-tip="text" data-tiptext="Your health. It does not refill by itself: herbs heal you after a won wave."><img src="assets/ui/heart.png" alt=""><div class="bar"><i id="hpFill"></i><span id="hpTxt"></span></div></div>
+    </div>
+    <div id="bFoes"></div>
+    <div id="nextCard" class="tag foeTag" data-tip="text"></div>
+  </section>
+  <!-- strip between the field and the bag: toasts and the selected-item buttons. It never covers units or bars. -->
+  <div id="dock"></div>
+
+  <!-- middle: the bag -->
+  <section id="bagArea">
+    <div id="bagPanel"><div id="bagHost"></div></div>
+  </section>
+
+  <!-- replay controls (replay mode only) -->
+  <div id="replayBar" hidden>
+    <div class="rrow"><label class="chunky blue small file">Open log<input type="file" id="file" accept=".jsonl,.json,.txt"></label>
+      <button id="prev" class="chunky grey small">&lsaquo; prev</button><button id="auto" class="chunky green small">play</button><button id="next" class="chunky grey small">next &rsaquo;</button>
+      <span id="pos"></span></div>
+    <div class="rp" id="act"></div>
+    <div class="rp" id="reason"></div>
+  </div>
+
+  <!-- bottom: shop, stash, fight -->
+  <section id="shopArea">
+    <div id="shopPanel"><div id="shop"></div><button id="rerollBtn" class="chunky yellow"></button></div>
+    <div id="sell"><img src="assets/ui/coin.png" alt=""><span id="sellTxt">Drop here to sell</span></div>
+  </section>
+  <section id="bottom">
+    <div id="stashPanel"><div class="lab" id="stashTitle"></div><div id="stash"></div></div>
+    <button id="fight" class="chunky green"></button>
+  </section>
+
+  <div id="banner" class="ov"></div>
+  <div id="help" class="ov"></div>
+  <div id="end" class="ov"></div>
+</div>
+</div>
+<div id="fxlayer"></div>
+<div id="floater"></div>
+<div id="dragTip"></div>
+<div id="tip"></div>
+<script src="game.js"></script>
+<script src="ui/battle-trace.js"></script>
+<script src="ui/app.js"></script>
+</body></html>

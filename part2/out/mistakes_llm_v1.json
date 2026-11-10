@@ -1,0 +1,2038 @@
+{
+ "games": 30,
+ "phases": 106,
+ "lost": 30,
+ "summary": {
+  "unpowered_weapon": {
+   "phases_with": 32,
+   "total": 34,
+   "lost_games_with_any": 15,
+   "in_losing_phase": 11
+  },
+  "idle_soldier": {
+   "phases_with": 42,
+   "total": 59,
+   "lost_games_with_any": 25,
+   "in_losing_phase": 14
+  },
+  "useless_buff": {
+   "phases_with": 48,
+   "total": 59,
+   "lost_games_with_any": 17,
+   "in_losing_phase": 16
+  },
+  "fought_known_loss": {
+   "phases_with": 30,
+   "total": 30,
+   "lost_games_with_any": 30,
+   "in_losing_phase": 30
+  },
+  "blind_losing_fight": {
+   "phases_with": 22,
+   "total": 22,
+   "lost_games_with_any": 22,
+   "in_losing_phase": 22
+  },
+  "soldier_merge": {
+   "phases_with": 46,
+   "total": 60,
+   "lost_games_with_any": 23,
+   "in_losing_phase": 15
+  },
+  "illegal_actions": {
+   "phases_with": 57,
+   "total": 163,
+   "lost_games_with_any": 27,
+   "in_losing_phase": 23
+  }
+ },
+ "losingSummary": {
+  "blind_fight_into_loss": 22,
+  "no_working_weapon": 11,
+  "gold_5plus_unspent": 17,
+  "forced_by_call_cap": 4,
+  "illegal_action_in_losing_wave": 23
+ },
+ "losing": [
+  {
+   "seed": 1,
+   "wave": 4,
+   "type": "armored",
+   "hp": 14,
+   "gold": 5,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 3
+  },
+  {
+   "seed": 2,
+   "wave": 6,
+   "type": "armored",
+   "hp": 10,
+   "gold": 1,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 4
+  },
+  {
+   "seed": 3,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 2,
+   "no_weapon": false,
+   "only_unpowered": true,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 1
+  },
+  {
+   "seed": 4,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 2,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 5
+  },
+  {
+   "seed": 5,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 1,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 4
+  },
+  {
+   "seed": 6,
+   "wave": 5,
+   "type": "swarm",
+   "hp": 4,
+   "gold": 12,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 3
+  },
+  {
+   "seed": 7,
+   "wave": 4,
+   "type": "armored",
+   "hp": 22,
+   "gold": 17,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 0
+  },
+  {
+   "seed": 8,
+   "wave": 8,
+   "type": "normal",
+   "hp": 21,
+   "gold": 56,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": true,
+   "gold_5plus": true,
+   "illegal_in_wave": 6
+  },
+  {
+   "seed": 9,
+   "wave": 5,
+   "type": "armored",
+   "hp": 9,
+   "gold": 7,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": true,
+   "gold_5plus": true,
+   "illegal_in_wave": 11
+  },
+  {
+   "seed": 10,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 1,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 2
+  },
+  {
+   "seed": 11,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 2,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 4
+  },
+  {
+   "seed": 12,
+   "wave": 3,
+   "type": "normal",
+   "hp": 6,
+   "gold": 8,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 1
+  },
+  {
+   "seed": 13,
+   "wave": 4,
+   "type": "swarm",
+   "hp": 24,
+   "gold": 6,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 1
+  },
+  {
+   "seed": 14,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 1,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 10
+  },
+  {
+   "seed": 15,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 0,
+   "no_weapon": false,
+   "only_unpowered": true,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 1
+  },
+  {
+   "seed": 16,
+   "wave": 6,
+   "type": "armored",
+   "hp": 16,
+   "gold": 24,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 0
+  },
+  {
+   "seed": 17,
+   "wave": 5,
+   "type": "swarm",
+   "hp": 20,
+   "gold": 7,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 1
+  },
+  {
+   "seed": 18,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 2,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 2
+  },
+  {
+   "seed": 19,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 1,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 0
+  },
+  {
+   "seed": 20,
+   "wave": 5,
+   "type": "swarm",
+   "hp": 11,
+   "gold": 12,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 4
+  },
+  {
+   "seed": 21,
+   "wave": 5,
+   "type": "normal",
+   "hp": 6,
+   "gold": 11,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": true,
+   "gold_5plus": true,
+   "illegal_in_wave": 3
+  },
+  {
+   "seed": 22,
+   "wave": 6,
+   "type": "swarm",
+   "hp": 10,
+   "gold": 27,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 1
+  },
+  {
+   "seed": 23,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 1,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": false,
+   "forced": true,
+   "gold_5plus": false,
+   "illegal_in_wave": 4
+  },
+  {
+   "seed": 24,
+   "wave": 4,
+   "type": "armored",
+   "hp": 36,
+   "gold": 3,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 0
+  },
+  {
+   "seed": 25,
+   "wave": 6,
+   "type": "armored",
+   "hp": 8,
+   "gold": 23,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 0
+  },
+  {
+   "seed": 26,
+   "wave": 5,
+   "type": "armored",
+   "hp": 20,
+   "gold": 16,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 0
+  },
+  {
+   "seed": 27,
+   "wave": 5,
+   "type": "armored",
+   "hp": 13,
+   "gold": 7,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 1
+  },
+  {
+   "seed": 28,
+   "wave": 1,
+   "type": "normal",
+   "hp": 50,
+   "gold": 3,
+   "no_weapon": true,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": false,
+   "illegal_in_wave": 4
+  },
+  {
+   "seed": 29,
+   "wave": 3,
+   "type": "swarm",
+   "hp": 8,
+   "gold": 6,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 0
+  },
+  {
+   "seed": 30,
+   "wave": 6,
+   "type": "swarm",
+   "hp": 1,
+   "gold": 19,
+   "no_weapon": false,
+   "only_unpowered": false,
+   "blind": true,
+   "forced": false,
+   "gold_5plus": true,
+   "illegal_in_wave": 2
+  }
+ ],
+ "perGame": [
+  {
+   "seed": 1,
+   "won": false,
+   "lostWave": 4,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 1,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 2,
+     "illegal_actions": 1,
+     "gold_left": 3,
+     "hp": 40
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 3,
+     "gold_left": 5,
+     "hp": 14
+    }
+   ]
+  },
+  {
+   "seed": 2,
+   "won": false,
+   "lostWave": 6,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 0,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 1,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 2,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 3,
+     "hp": 22
+    },
+    {
+     "wave": 4,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 12,
+     "hp": 17
+    },
+    {
+     "wave": 5,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 20,
+     "hp": 13
+    },
+    {
+     "wave": 6,
+     "type": "armored",
+     "unpowered_weapon": 2,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 4,
+     "gold_left": 1,
+     "hp": 10
+    }
+   ]
+  },
+  {
+   "seed": 3,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 1,
+     "idle_soldier": 2,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 2,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 4,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 2,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 5,
+     "gold_left": 2,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 5,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 4,
+     "gold_left": 1,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 6,
+   "won": false,
+   "lostWave": 5,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 1,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 4,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "normal",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 3,
+     "illegal_actions": 3,
+     "gold_left": 8,
+     "hp": 40
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 2,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 14,
+     "hp": 31
+    },
+    {
+     "wave": 5,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 3,
+     "gold_left": 12,
+     "hp": 4
+    }
+   ]
+  },
+  {
+   "seed": 7,
+   "won": false,
+   "lostWave": 4,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 7,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 6,
+     "hp": 44
+    },
+    {
+     "wave": 3,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 15,
+     "hp": 30
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 17,
+     "hp": 22
+    }
+   ]
+  },
+  {
+   "seed": 8,
+   "won": false,
+   "lostWave": 8,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 3,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 3,
+     "hp": 42
+    },
+    {
+     "wave": 4,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 2,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 3,
+     "gold_left": 9,
+     "hp": 38
+    },
+    {
+     "wave": 5,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 3,
+     "gold_left": 17,
+     "hp": 39
+    },
+    {
+     "wave": 6,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 2,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 25,
+     "hp": 34
+    },
+    {
+     "wave": 7,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 2,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 38,
+     "hp": 27
+    },
+    {
+     "wave": 8,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 3,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 6,
+     "gold_left": 56,
+     "hp": 21
+    }
+   ]
+  },
+  {
+   "seed": 9,
+   "won": false,
+   "lostWave": 5,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 3,
+     "gold_left": 6,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 9,
+     "hp": 43
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 3,
+     "gold_left": 8,
+     "hp": 34
+    },
+    {
+     "wave": 5,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 3,
+     "illegal_actions": 11,
+     "gold_left": 7,
+     "hp": 9
+    }
+   ]
+  },
+  {
+   "seed": 10,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 2,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 1,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 11,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 2,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 4,
+     "gold_left": 2,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 12,
+   "won": false,
+   "lostWave": 3,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 3,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 5,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "normal",
+     "unpowered_weapon": 1,
+     "idle_soldier": 2,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 8,
+     "hp": 6
+    }
+   ]
+  },
+  {
+   "seed": 13,
+   "won": false,
+   "lostWave": 4,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 3,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 1,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 2,
+     "illegal_actions": 0,
+     "gold_left": 3,
+     "hp": 34
+    },
+    {
+     "wave": 4,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 2,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 6,
+     "hp": 24
+    }
+   ]
+  },
+  {
+   "seed": 14,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 10,
+     "gold_left": 1,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 15,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 1,
+     "idle_soldier": 2,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 0,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 16,
+   "won": false,
+   "lostWave": 6,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 3,
+     "gold_left": 2,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 7,
+     "hp": 40
+    },
+    {
+     "wave": 4,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 2,
+     "illegal_actions": 7,
+     "gold_left": 12,
+     "hp": 34
+    },
+    {
+     "wave": 5,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 3,
+     "gold_left": 10,
+     "hp": 32
+    },
+    {
+     "wave": 6,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 24,
+     "hp": 16
+    }
+   ]
+  },
+  {
+   "seed": 17,
+   "won": false,
+   "lostWave": 5,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 5,
+     "hp": 48
+    },
+    {
+     "wave": 3,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 2,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 11,
+     "hp": 44
+    },
+    {
+     "wave": 4,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 19,
+     "hp": 32
+    },
+    {
+     "wave": 5,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 2,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 7,
+     "hp": 20
+    }
+   ]
+  },
+  {
+   "seed": 18,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 3,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 2,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 19,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 1,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 20,
+   "won": false,
+   "lostWave": 5,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 5,
+     "hp": 48
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 7,
+     "hp": 32
+    },
+    {
+     "wave": 4,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 3,
+     "gold_left": 11,
+     "hp": 20
+    },
+    {
+     "wave": 5,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 2,
+     "illegal_actions": 4,
+     "gold_left": 12,
+     "hp": 11
+    }
+   ]
+  },
+  {
+   "seed": 21,
+   "won": false,
+   "lostWave": 5,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 0,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 2,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 3,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 4,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 4,
+     "hp": 40
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 3,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 4,
+     "gold_left": 6,
+     "hp": 32
+    },
+    {
+     "wave": 5,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 5,
+     "illegal_actions": 3,
+     "gold_left": 11,
+     "hp": 6
+    }
+   ]
+  },
+  {
+   "seed": 22,
+   "won": false,
+   "lostWave": 6,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 1,
+     "hp": 48
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 6,
+     "hp": 44
+    },
+    {
+     "wave": 4,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 11,
+     "hp": 29
+    },
+    {
+     "wave": 5,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 2,
+     "gold_left": 17,
+     "hp": 23
+    },
+    {
+     "wave": 6,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 27,
+     "hp": 10
+    }
+   ]
+  },
+  {
+   "seed": 23,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 4,
+     "gold_left": 1,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 24,
+   "won": false,
+   "lostWave": 4,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 6,
+     "gold_left": 0,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "normal",
+     "unpowered_weapon": 1,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 1,
+     "hp": 43
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 2,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 3,
+     "hp": 36
+    }
+   ]
+  },
+  {
+   "seed": 25,
+   "won": false,
+   "lostWave": 6,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 3,
+     "hp": 49
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 4,
+     "hp": 40
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 8,
+     "gold_left": 8,
+     "hp": 38
+    },
+    {
+     "wave": 5,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 5,
+     "gold_left": 13,
+     "hp": 14
+    },
+    {
+     "wave": 6,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 2,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 23,
+     "hp": 8
+    }
+   ]
+  },
+  {
+   "seed": 26,
+   "won": false,
+   "lostWave": 5,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 5,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 1,
+     "gold_left": 11,
+     "hp": 45
+    },
+    {
+     "wave": 4,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 2,
+     "illegal_actions": 3,
+     "gold_left": 12,
+     "hp": 36
+    },
+    {
+     "wave": 5,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 16,
+     "hp": 20
+    }
+   ]
+  },
+  {
+   "seed": 27,
+   "won": false,
+   "lostWave": 5,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 1,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 0,
+     "hp": 34
+    },
+    {
+     "wave": 4,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 2,
+     "gold_left": 2,
+     "hp": 28
+    },
+    {
+     "wave": 5,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 1,
+     "gold_left": 7,
+     "hp": 13
+    }
+   ]
+  },
+  {
+   "seed": 28,
+   "won": false,
+   "lostWave": 1,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 2,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 0,
+     "illegal_actions": 4,
+     "gold_left": 3,
+     "hp": 50
+    }
+   ]
+  },
+  {
+   "seed": 29,
+   "won": false,
+   "lostWave": 3,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 2,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 1,
+     "useless_buff": 1,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 6,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 1,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 6,
+     "hp": 8
+    }
+   ]
+  },
+  {
+   "seed": 30,
+   "won": false,
+   "lostWave": 6,
+   "waves": [
+    {
+     "wave": 1,
+     "type": "normal",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 3,
+     "hp": 50
+    },
+    {
+     "wave": 2,
+     "type": "armored",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 0,
+     "hp": 46
+    },
+    {
+     "wave": 3,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 1,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 0,
+     "illegal_actions": 0,
+     "gold_left": 5,
+     "hp": 36
+    },
+    {
+     "wave": 4,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 2,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 0,
+     "gold_left": 12,
+     "hp": 36
+    },
+    {
+     "wave": 5,
+     "type": "armored",
+     "unpowered_weapon": 1,
+     "idle_soldier": 2,
+     "useless_buff": 0,
+     "fought_known_loss": 0,
+     "blind_losing_fight": 0,
+     "soldier_merge": 1,
+     "illegal_actions": 2,
+     "gold_left": 18,
+     "hp": 34
+    },
+    {
+     "wave": 6,
+     "type": "swarm",
+     "unpowered_weapon": 0,
+     "idle_soldier": 0,
+     "useless_buff": 0,
+     "fought_known_loss": 1,
+     "blind_losing_fight": 1,
+     "soldier_merge": 2,
+     "illegal_actions": 2,
+     "gold_left": 19,
+     "hp": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2002 @@
+[
+ {
+  "bot": "rule",
+  "seed": 1,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 108,
+  "errors": 0,
+  "ms": 550
+ },
+ {
+  "bot": "rule",
+  "seed": 2,
+  "won": true,
+  "wave": 10,
+  "hp": 48,
+  "steps": 115,
+  "errors": 0,
+  "ms": 370
+ },
+ {
+  "bot": "rule",
+  "seed": 3,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 102,
+  "errors": 0,
+  "ms": 354
+ },
+ {
+  "bot": "rule",
+  "seed": 4,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 110,
+  "errors": 0,
+  "ms": 277
+ },
+ {
+  "bot": "rule",
+  "seed": 5,
+  "won": true,
+  "wave": 10,
+  "hp": 19,
+  "steps": 122,
+  "errors": 0,
+  "ms": 435
+ },
+ {
+  "bot": "rule",
+  "seed": 6,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 113,
+  "errors": 0,
+  "ms": 644
+ },
+ {
+  "bot": "rule",
+  "seed": 7,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 98,
+  "errors": 0,
+  "ms": 402
+ },
+ {
+  "bot": "rule",
+  "seed": 8,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 96,
+  "errors": 0,
+  "ms": 300
+ },
+ {
+  "bot": "rule",
+  "seed": 9,
+  "won": true,
+  "wave": 10,
+  "hp": 38,
+  "steps": 100,
+  "errors": 0,
+  "ms": 280
+ },
+ {
+  "bot": "rule",
+  "seed": 10,
+  "won": false,
+  "wave": 7,
+  "hp": 0,
+  "steps": 70,
+  "errors": 0,
+  "ms": 274
+ },
+ {
+  "bot": "rule",
+  "seed": 11,
+  "won": true,
+  "wave": 10,
+  "hp": 42,
+  "steps": 106,
+  "errors": 0,
+  "ms": 391
+ },
+ {
+  "bot": "rule",
+  "seed": 12,
+  "won": true,
+  "wave": 10,
+  "hp": 43,
+  "steps": 116,
+  "errors": 0,
+  "ms": 366
+ },
+ {
+  "bot": "rule",
+  "seed": 13,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 113,
+  "errors": 0,
+  "ms": 414
+ },
+ {
+  "bot": "rule",
+  "seed": 14,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 102,
+  "errors": 0,
+  "ms": 310
+ },
+ {
+  "bot": "rule",
+  "seed": 15,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 108,
+  "errors": 0,
+  "ms": 404
+ },
+ {
+  "bot": "rule",
+  "seed": 16,
+  "won": true,
+  "wave": 10,
+  "hp": 17,
+  "steps": 109,
+  "errors": 0,
+  "ms": 397
+ },
+ {
+  "bot": "rule",
+  "seed": 17,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 115,
+  "errors": 0,
+  "ms": 341
+ },
+ {
+  "bot": "rule",
+  "seed": 18,
+  "won": true,
+  "wave": 10,
+  "hp": 47,
+  "steps": 96,
+  "errors": 0,
+  "ms": 276
+ },
+ {
+  "bot": "rule",
+  "seed": 19,
+  "won": true,
+  "wave": 10,
+  "hp": 31,
+  "steps": 102,
+  "errors": 0,
+  "ms": 363
+ },
+ {
+  "bot": "rule",
+  "seed": 20,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 94,
+  "errors": 0,
+  "ms": 295
+ },
+ {
+  "bot": "rule",
+  "seed": 21,
+  "won": true,
+  "wave": 10,
+  "hp": 36,
+  "steps": 98,
+  "errors": 0,
+  "ms": 302
+ },
+ {
+  "bot": "rule",
+  "seed": 22,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 104,
+  "errors": 0,
+  "ms": 305
+ },
+ {
+  "bot": "rule",
+  "seed": 23,
+  "won": true,
+  "wave": 10,
+  "hp": 19,
+  "steps": 122,
+  "errors": 0,
+  "ms": 643
+ },
+ {
+  "bot": "rule",
+  "seed": 24,
+  "won": false,
+  "wave": 10,
+  "hp": 0,
+  "steps": 135,
+  "errors": 0,
+  "ms": 467
+ },
+ {
+  "bot": "rule",
+  "seed": 25,
+  "won": false,
+  "wave": 7,
+  "hp": 0,
+  "steps": 68,
+  "errors": 0,
+  "ms": 210
+ },
+ {
+  "bot": "rule",
+  "seed": 26,
+  "won": false,
+  "wave": 9,
+  "hp": 0,
+  "steps": 115,
+  "errors": 0,
+  "ms": 561
+ },
+ {
+  "bot": "rule",
+  "seed": 27,
+  "won": true,
+  "wave": 10,
+  "hp": 20,
+  "steps": 89,
+  "errors": 0,
+  "ms": 251
+ },
+ {
+  "bot": "rule",
+  "seed": 28,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 109,
+  "errors": 0,
+  "ms": 264
+ },
+ {
+  "bot": "rule",
+  "seed": 29,
+  "won": false,
+  "wave": 8,
+  "hp": 0,
+  "steps": 81,
+  "errors": 0,
+  "ms": 256
+ },
+ {
+  "bot": "rule",
+  "seed": 30,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 93,
+  "errors": 0,
+  "ms": 248
+ },
+ {
+  "bot": "rule",
+  "seed": 31,
+  "won": true,
+  "wave": 10,
+  "hp": 22,
+  "steps": 94,
+  "errors": 0,
+  "ms": 320
+ },
+ {
+  "bot": "rule",
+  "seed": 32,
+  "won": true,
+  "wave": 10,
+  "hp": 41,
+  "steps": 114,
+  "errors": 0,
+  "ms": 301
+ },
+ {
+  "bot": "rule",
+  "seed": 33,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 107,
+  "errors": 0,
+  "ms": 340
+ },
+ {
+  "bot": "rule",
+  "seed": 34,
+  "won": true,
+  "wave": 10,
+  "hp": 4,
+  "steps": 120,
+  "errors": 0,
+  "ms": 322
+ },
+ {
+  "bot": "rule",
+  "seed": 35,
+  "won": true,
+  "wave": 10,
+  "hp": 25,
+  "steps": 124,
+  "errors": 0,
+  "ms": 592
+ },
+ {
+  "bot": "rule",
+  "seed": 36,
+  "won": false,
+  "wave": 8,
+  "hp": 0,
+  "steps": 94,
+  "errors": 0,
+  "ms": 399
+ },
+ {
+  "bot": "rule",
+  "seed": 37,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 95,
+  "errors": 0,
+  "ms": 289
+ },
+ {
+  "bot": "rule",
+  "seed": 38,
+  "won": true,
+  "wave": 10,
+  "hp": 41,
+  "steps": 112,
+  "errors": 0,
+  "ms": 368
+ },
+ {
+  "bot": "rule",
+  "seed": 39,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 125,
+  "errors": 0,
+  "ms": 566
+ },
+ {
+  "bot": "rule",
+  "seed": 40,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 96,
+  "errors": 0,
+  "ms": 251
+ },
+ {
+  "bot": "rule",
+  "seed": 41,
+  "won": true,
+  "wave": 10,
+  "hp": 39,
+  "steps": 118,
+  "errors": 0,
+  "ms": 474
+ },
+ {
+  "bot": "rule",
+  "seed": 42,
+  "won": true,
+  "wave": 10,
+  "hp": 27,
+  "steps": 100,
+  "errors": 0,
+  "ms": 315
+ },
+ {
+  "bot": "rule",
+  "seed": 43,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 108,
+  "errors": 0,
+  "ms": 258
+ },
+ {
+  "bot": "rule",
+  "seed": 44,
+  "won": true,
+  "wave": 10,
+  "hp": 20,
+  "steps": 106,
+  "errors": 0,
+  "ms": 361
+ },
+ {
+  "bot": "rule",
+  "seed": 45,
+  "won": true,
+  "wave": 10,
+  "hp": 19,
+  "steps": 107,
+  "errors": 0,
+  "ms": 388
+ },
+ {
+  "bot": "rule",
+  "seed": 46,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 94,
+  "errors": 0,
+  "ms": 245
+ },
+ {
+  "bot": "rule",
+  "seed": 47,
+  "won": true,
+  "wave": 10,
+  "hp": 27,
+  "steps": 97,
+  "errors": 0,
+  "ms": 331
+ },
+ {
+  "bot": "rule",
+  "seed": 48,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 131,
+  "errors": 0,
+  "ms": 744
+ },
+ {
+  "bot": "rule",
+  "seed": 49,
+  "won": true,
+  "wave": 10,
+  "hp": 41,
+  "steps": 121,
+  "errors": 0,
+  "ms": 439
+ },
+ {
+  "bot": "rule",
+  "seed": 50,
+  "won": true,
+  "wave": 10,
+  "hp": 33,
+  "steps": 98,
+  "errors": 0,
+  "ms": 307
+ },
+ {
+  "bot": "rule",
+  "seed": 51,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 98,
+  "errors": 0,
+  "ms": 248
+ },
+ {
+  "bot": "rule",
+  "seed": 52,
+  "won": true,
+  "wave": 10,
+  "hp": 35,
+  "steps": 103,
+  "errors": 0,
+  "ms": 337
+ },
+ {
+  "bot": "rule",
+  "seed": 53,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 116,
+  "errors": 0,
+  "ms": 358
+ },
+ {
+  "bot": "rule",
+  "seed": 54,
+  "won": true,
+  "wave": 10,
+  "hp": 39,
+  "steps": 120,
+  "errors": 0,
+  "ms": 490
+ },
+ {
+  "bot": "rule",
+  "seed": 55,
+  "won": true,
+  "wave": 10,
+  "hp": 19,
+  "steps": 120,
+  "errors": 0,
+  "ms": 369
+ },
+ {
+  "bot": "rule",
+  "seed": 56,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 108,
+  "errors": 0,
+  "ms": 424
+ },
+ {
+  "bot": "rule",
+  "seed": 57,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 109,
+  "errors": 0,
+  "ms": 301
+ },
+ {
+  "bot": "rule",
+  "seed": 58,
+  "won": true,
+  "wave": 10,
+  "hp": 27,
+  "steps": 102,
+  "errors": 0,
+  "ms": 409
+ },
+ {
+  "bot": "rule",
+  "seed": 59,
+  "won": true,
+  "wave": 10,
+  "hp": 33,
+  "steps": 102,
+  "errors": 0,
+  "ms": 292
+ },
+ {
+  "bot": "rule",
+  "seed": 60,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 92,
+  "errors": 0,
+  "ms": 325
+ },
+ {
+  "bot": "rule",
+  "seed": 61,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 94,
+  "errors": 0,
+  "ms": 254
+ },
+ {
+  "bot": "rule",
+  "seed": 62,
+  "won": false,
+  "wave": 7,
+  "hp": 0,
+  "steps": 68,
+  "errors": 0,
+  "ms": 202
+ },
+ {
+  "bot": "rule",
+  "seed": 63,
+  "won": true,
+  "wave": 10,
+  "hp": 22,
+  "steps": 104,
+  "errors": 0,
+  "ms": 300
+ },
+ {
+  "bot": "rule",
+  "seed": 64,
+  "won": true,
+  "wave": 10,
+  "hp": 26,
+  "steps": 92,
+  "errors": 0,
+  "ms": 334
+ },
+ {
+  "bot": "rule",
+  "seed": 65,
+  "won": true,
+  "wave": 10,
+  "hp": 40,
+  "steps": 120,
+  "errors": 0,
+  "ms": 528
+ },
+ {
+  "bot": "rule",
+  "seed": 66,
+  "won": true,
+  "wave": 10,
+  "hp": 28,
+  "steps": 120,
+  "errors": 0,
+  "ms": 467
+ },
+ {
+  "bot": "rule",
+  "seed": 67,
+  "won": true,
+  "wave": 10,
+  "hp": 17,
+  "steps": 110,
+  "errors": 0,
+  "ms": 391
+ },
+ {
+  "bot": "rule",
+  "seed": 68,
+  "won": true,
+  "wave": 10,
+  "hp": 27,
+  "steps": 101,
+  "errors": 0,
+  "ms": 465
+ },
+ {
+  "bot": "rule",
+  "seed": 69,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 92,
+  "errors": 0,
+  "ms": 240
+ },
+ {
+  "bot": "rule",
+  "seed": 70,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 103,
+  "errors": 0,
+  "ms": 437
+ },
+ {
+  "bot": "rule",
+  "seed": 71,
+  "won": true,
+  "wave": 10,
+  "hp": 32,
+  "steps": 108,
+  "errors": 0,
+  "ms": 298
+ },
+ {
+  "bot": "rule",
+  "seed": 72,
+  "won": true,
+  "wave": 10,
+  "hp": 44,
+  "steps": 96,
+  "errors": 0,
+  "ms": 207
+ },
+ {
+  "bot": "rule",
+  "seed": 73,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 105,
+  "errors": 0,
+  "ms": 276
+ },
+ {
+  "bot": "rule",
+  "seed": 74,
+  "won": true,
+  "wave": 10,
+  "hp": 44,
+  "steps": 119,
+  "errors": 0,
+  "ms": 390
+ },
+ {
+  "bot": "rule",
+  "seed": 75,
+  "won": false,
+  "wave": 8,
+  "hp": 0,
+  "steps": 101,
+  "errors": 0,
+  "ms": 355
+ },
+ {
+  "bot": "rule",
+  "seed": 76,
+  "won": true,
+  "wave": 10,
+  "hp": 26,
+  "steps": 118,
+  "errors": 0,
+  "ms": 448
+ },
+ {
+  "bot": "rule",
+  "seed": 77,
+  "won": true,
+  "wave": 10,
+  "hp": 47,
+  "steps": 114,
+  "errors": 0,
+  "ms": 390
+ },
+ {
+  "bot": "rule",
+  "seed": 78,
+  "won": true,
+  "wave": 10,
+  "hp": 29,
+  "steps": 101,
+  "errors": 0,
+  "ms": 287
+ },
+ {
+  "bot": "rule",
+  "seed": 79,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 113,
+  "errors": 0,
+  "ms": 335
+ },
+ {
+  "bot": "rule",
+  "seed": 80,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 98,
+  "errors": 0,
+  "ms": 349
+ },
+ {
+  "bot": "rule",
+  "seed": 81,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 96,
+  "errors": 0,
+  "ms": 216
+ },
+ {
+  "bot": "rule",
+  "seed": 82,
+  "won": true,
+  "wave": 10,
+  "hp": 28,
+  "steps": 116,
+  "errors": 0,
+  "ms": 466
+ },
+ {
+  "bot": "rule",
+  "seed": 83,
+  "won": true,
+  "wave": 10,
+  "hp": 21,
+  "steps": 112,
+  "errors": 0,
+  "ms": 461
+ },
+ {
+  "bot": "rule",
+  "seed": 84,
+  "won": true,
+  "wave": 10,
+  "hp": 26,
+  "steps": 85,
+  "errors": 0,
+  "ms": 230
+ },
+ {
+  "bot": "rule",
+  "seed": 85,
+  "won": true,
+  "wave": 10,
+  "hp": 44,
+  "steps": 109,
+  "errors": 0,
+  "ms": 404
+ },
+ {
+  "bot": "rule",
+  "seed": 86,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 99,
+  "errors": 0,
+  "ms": 272
+ },
+ {
+  "bot": "rule",
+  "seed": 87,
+  "won": false,
+  "wave": 9,
+  "hp": 0,
+  "steps": 99,
+  "errors": 0,
+  "ms": 377
+ },
+ {
+  "bot": "rule",
+  "seed": 88,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 100,
+  "errors": 0,
+  "ms": 260
+ },
+ {
+  "bot": "rule",
+  "seed": 89,
+  "won": true,
+  "wave": 10,
+  "hp": 48,
+  "steps": 94,
+  "errors": 0,
+  "ms": 246
+ },
+ {
+  "bot": "rule",
+  "seed": 90,
+  "won": true,
+  "wave": 10,
+  "hp": 48,
+  "steps": 106,
+  "errors": 0,
+  "ms": 328
+ },
+ {
+  "bot": "rule",
+  "seed": 91,
+  "won": true,
+  "wave": 10,
+  "hp": 41,
+  "steps": 103,
+  "errors": 0,
+  "ms": 280
+ },
+ {
+  "bot": "rule",
+  "seed": 92,
+  "won": false,
+  "wave": 10,
+  "hp": 0,
+  "steps": 138,
+  "errors": 0,
+  "ms": 768
+ },
+ {
+  "bot": "rule",
+  "seed": 93,
+  "won": true,
+  "wave": 10,
+  "hp": 36,
+  "steps": 106,
+  "errors": 0,
+  "ms": 381
+ },
+ {
+  "bot": "rule",
+  "seed": 94,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 102,
+  "errors": 0,
+  "ms": 250
+ },
+ {
+  "bot": "rule",
+  "seed": 95,
+  "won": true,
+  "wave": 10,
+  "hp": 35,
+  "steps": 104,
+  "errors": 0,
+  "ms": 322
+ },
+ {
+  "bot": "rule",
+  "seed": 96,
+  "won": true,
+  "wave": 10,
+  "hp": 44,
+  "steps": 96,
+  "errors": 0,
+  "ms": 326
+ },
+ {
+  "bot": "rule",
+  "seed": 97,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 110,
+  "errors": 0,
+  "ms": 434
+ },
+ {
+  "bot": "rule",
+  "seed": 98,
+  "won": true,
+  "wave": 10,
+  "hp": 14,
+  "steps": 108,
+  "errors": 0,
+  "ms": 485
+ },
+ {
+  "bot": "rule",
+  "seed": 99,
+  "won": true,
+  "wave": 10,
+  "hp": 16,
+  "steps": 106,
+  "errors": 0,
+  "ms": 319
+ },
+ {
+  "bot": "rule",
+  "seed": 100,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 113,
+  "errors": 0,
+  "ms": 431
+ },
+ {
+  "bot": "rule",
+  "seed": 101,
+  "won": true,
+  "wave": 10,
+  "hp": 39,
+  "steps": 100,
+  "errors": 0,
+  "ms": 420
+ },
+ {
+  "bot": "rule",
+  "seed": 102,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 110,
+  "errors": 0,
+  "ms": 401
+ },
+ {
+  "bot": "rule",
+  "seed": 103,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 105,
+  "errors": 0,
+  "ms": 360
+ },
+ {
+  "bot": "rule",
+  "seed": 104,
+  "won": true,
+  "wave": 10,
+  "hp": 24,
+  "steps": 112,
+  "errors": 0,
+  "ms": 385
+ },
+ {
+  "bot": "rule",
+  "seed": 105,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 102,
+  "errors": 0,
+  "ms": 308
+ },
+ {
+  "bot": "rule",
+  "seed": 106,
+  "won": true,
+  "wave": 10,
+  "hp": 40,
+  "steps": 102,
+  "errors": 0,
+  "ms": 366
+ },
+ {
+  "bot": "rule",
+  "seed": 107,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 106,
+  "errors": 0,
+  "ms": 345
+ },
+ {
+  "bot": "rule",
+  "seed": 108,
+  "won": true,
+  "wave": 10,
+  "hp": 4,
+  "steps": 91,
+  "errors": 0,
+  "ms": 521
+ },
+ {
+  "bot": "rule",
+  "seed": 109,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 113,
+  "errors": 0,
+  "ms": 554
+ },
+ {
+  "bot": "rule",
+  "seed": 110,
+  "won": true,
+  "wave": 10,
+  "hp": 23,
+  "steps": 113,
+  "errors": 0,
+  "ms": 322
+ },
+ {
+  "bot": "rule",
+  "seed": 111,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 114,
+  "errors": 0,
+  "ms": 580
+ },
+ {
+  "bot": "rule",
+  "seed": 112,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 100,
+  "errors": 0,
+  "ms": 441
+ },
+ {
+  "bot": "rule",
+  "seed": 113,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 113,
+  "errors": 0,
+  "ms": 384
+ },
+ {
+  "bot": "rule",
+  "seed": 114,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 110,
+  "errors": 0,
+  "ms": 560
+ },
+ {
+  "bot": "rule",
+  "seed": 115,
+  "won": true,
+  "wave": 10,
+  "hp": 16,
+  "steps": 119,
+  "errors": 0,
+  "ms": 421
+ },
+ {
+  "bot": "rule",
+  "seed": 116,
+  "won": false,
+  "wave": 8,
+  "hp": 0,
+  "steps": 92,
+  "errors": 0,
+  "ms": 432
+ },
+ {
+  "bot": "rule",
+  "seed": 117,
+  "won": true,
+  "wave": 10,
+  "hp": 49,
+  "steps": 100,
+  "errors": 0,
+  "ms": 299
+ },
+ {
+  "bot": "rule",
+  "seed": 118,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 115,
+  "errors": 0,
+  "ms": 425
+ },
+ {
+  "bot": "rule",
+  "seed": 119,
+  "won": false,
+  "wave": 7,
+  "hp": 0,
+  "steps": 70,
+  "errors": 0,
+  "ms": 235
+ },
+ {
+  "bot": "rule",
+  "seed": 120,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 105,
+  "errors": 0,
+  "ms": 543
+ },
+ {
+  "bot": "rule",
+  "seed": 121,
+  "won": true,
+  "wave": 10,
+  "hp": 8,
+  "steps": 100,
+  "errors": 0,
+  "ms": 343
+ },
+ {
+  "bot": "rule",
+  "seed": 122,
+  "won": true,
+  "wave": 10,
+  "hp": 38,
+  "steps": 113,
+  "errors": 0,
+  "ms": 418
+ },
+ {
+  "bot": "rule",
+  "seed": 123,
+  "won": false,
+  "wave": 9,
+  "hp": 0,
+  "steps": 113,
+  "errors": 0,
+  "ms": 679
+ },
+ {
+  "bot": "rule",
+  "seed": 124,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 97,
+  "errors": 0,
+  "ms": 286
+ },
+ {
+  "bot": "rule",
+  "seed": 125,
+  "won": false,
+  "wave": 10,
+  "hp": 0,
+  "steps": 135,
+  "errors": 0,
+  "ms": 681
+ },
+ {
+  "bot": "rule",
+  "seed": 126,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 100,
+  "errors": 0,
+  "ms": 294
+ },
+ {
+  "bot": "rule",
+  "seed": 127,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 106,
+  "errors": 0,
+  "ms": 426
+ },
+ {
+  "bot": "rule",
+  "seed": 128,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 112,
+  "errors": 0,
+  "ms": 519
+ },
+ {
+  "bot": "rule",
+  "seed": 129,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 103,
+  "errors": 0,
+  "ms": 232
+ },
+ {
+  "bot": "rule",
+  "seed": 130,
+  "won": true,
+  "wave": 10,
+  "hp": 33,
+  "steps": 116,
+  "errors": 0,
+  "ms": 507
+ },
+ {
+  "bot": "rule",
+  "seed": 131,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 117,
+  "errors": 0,
+  "ms": 353
+ },
+ {
+  "bot": "rule",
+  "seed": 132,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 112,
+  "errors": 0,
+  "ms": 341
+ },
+ {
+  "bot": "rule",
+  "seed": 133,
+  "won": true,
+  "wave": 10,
+  "hp": 44,
+  "steps": 108,
+  "errors": 0,
+  "ms": 267
+ },
+ {
+  "bot": "rule",
+  "seed": 134,
+  "won": true,
+  "wave": 10,
+  "hp": 41,
+  "steps": 82,
+  "errors": 0,
+  "ms": 174
+ },
+ {
+  "bot": "rule",
+  "seed": 135,
+  "won": true,
+  "wave": 10,
+  "hp": 40,
+  "steps": 100,
+  "errors": 0,
+  "ms": 240
+ },
+ {
+  "bot": "rule",
+  "seed": 136,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 105,
+  "errors": 0,
+  "ms": 295
+ },
+ {
+  "bot": "rule",
+  "seed": 137,
+  "won": true,
+  "wave": 10,
+  "hp": 23,
+  "steps": 105,
+  "errors": 0,
+  "ms": 416
+ },
+ {
+  "bot": "rule",
+  "seed": 138,
+  "won": false,
+  "wave": 8,
+  "hp": 0,
+  "steps": 83,
+  "errors": 0,
+  "ms": 260
+ },
+ {
+  "bot": "rule",
+  "seed": 139,
+  "won": true,
+  "wave": 10,
+  "hp": 8,
+  "steps": 110,
+  "errors": 0,
+  "ms": 383
+ },
+ {
+  "bot": "rule",
+  "seed": 140,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 109,
+  "errors": 0,
+  "ms": 238
+ },
+ {
+  "bot": "rule",
+  "seed": 141,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 105,
+  "errors": 0,
+  "ms": 356
+ },
+ {
+  "bot": "rule",
+  "seed": 142,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 99,
+  "errors": 0,
+  "ms": 245
+ },
+ {
+  "bot": "rule",
+  "seed": 143,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 105,
+  "errors": 0,
+  "ms": 242
+ },
+ {
+  "bot": "rule",
+  "seed": 144,
+  "won": true,
+  "wave": 10,
+  "hp": 36,
+  "steps": 109,
+  "errors": 0,
+  "ms": 325
+ },
+ {
+  "bot": "rule",
+  "seed": 145,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 96,
+  "errors": 0,
+  "ms": 301
+ },
+ {
+  "bot": "rule",
+  "seed": 146,
+  "won": true,
+  "wave": 10,
+  "hp": 37,
+  "steps": 107,
+  "errors": 0,
+  "ms": 334
+ },
+ {
+  "bot": "rule",
+  "seed": 147,
+  "won": true,
+  "wave": 10,
+  "hp": 29,
+  "steps": 105,
+  "errors": 0,
+  "ms": 240
+ },
+ {
+  "bot": "rule",
+  "seed": 148,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 113,
+  "errors": 0,
+  "ms": 375
+ },
+ {
+  "bot": "rule",
+  "seed": 149,
+  "won": true,
+  "wave": 10,
+  "hp": 18,
+  "steps": 113,
+  "errors": 0,
+  "ms": 629
+ },
+ {
+  "bot": "rule",
+  "seed": 150,
+  "won": true,
+  "wave": 10,
+  "hp": 22,
+  "steps": 114,
+  "errors": 0,
+  "ms": 495
+ },
+ {
+  "bot": "rule",
+  "seed": 151,
+  "won": true,
+  "wave": 10,
+  "hp": 49,
+  "steps": 112,
+  "errors": 0,
+  "ms": 398
+ },
+ {
+  "bot": "rule",
+  "seed": 152,
+  "won": true,
+  "wave": 10,
+  "hp": 44,
+  "steps": 111,
+  "errors": 0,
+  "ms": 285
+ },
+ {
+  "bot": "rule",
+  "seed": 153,
+  "won": true,
+  "wave": 10,
+  "hp": 47,
+  "steps": 102,
+  "errors": 0,
+  "ms": 282
+ },
+ {
+  "bot": "rule",
+  "seed": 154,
+  "won": true,
+  "wave": 10,
+  "hp": 21,
+  "steps": 106,
+  "errors": 0,
+  "ms": 267
+ },
+ {
+  "bot": "rule",
+  "seed": 155,
+  "won": true,
+  "wave": 10,
+  "hp": 16,
+  "steps": 107,
+  "errors": 0,
+  "ms": 431
+ },
+ {
+  "bot": "rule",
+  "seed": 156,
+  "won": true,
+  "wave": 10,
+  "hp": 4,
+  "steps": 116,
+  "errors": 0,
+  "ms": 409
+ },
+ {
+  "bot": "rule",
+  "seed": 157,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 113,
+  "errors": 0,
+  "ms": 355
+ },
+ {
+  "bot": "rule",
+  "seed": 158,
+  "won": true,
+  "wave": 10,
+  "hp": 48,
+  "steps": 118,
+  "errors": 0,
+  "ms": 442
+ },
+ {
+  "bot": "rule",
+  "seed": 159,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 109,
+  "errors": 0,
+  "ms": 322
+ },
+ {
+  "bot": "rule",
+  "seed": 160,
+  "won": true,
+  "wave": 10,
+  "hp": 49,
+  "steps": 104,
+  "errors": 0,
+  "ms": 332
+ },
+ {
+  "bot": "rule",
+  "seed": 161,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 100,
+  "errors": 0,
+  "ms": 285
+ },
+ {
+  "bot": "rule",
+  "seed": 162,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 107,
+  "errors": 0,
+  "ms": 338
+ },
+ {
+  "bot": "rule",
+  "seed": 163,
+  "won": false,
+  "wave": 6,
+  "hp": 0,
+  "steps": 57,
+  "errors": 0,
+  "ms": 191
+ },
+ {
+  "bot": "rule",
+  "seed": 164,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 105,
+  "errors": 0,
+  "ms": 340
+ },
+ {
+  "bot": "rule",
+  "seed": 165,
+  "won": true,
+  "wave": 10,
+  "hp": 23,
+  "steps": 97,
+  "errors": 0,
+  "ms": 381
+ },
+ {
+  "bot": "rule",
+  "seed": 166,
+  "won": true,
+  "wave": 10,
+  "hp": 29,
+  "steps": 111,
+  "errors": 0,
+  "ms": 338
+ },
+ {
+  "bot": "rule",
+  "seed": 167,
+  "won": true,
+  "wave": 10,
+  "hp": 47,
+  "steps": 111,
+  "errors": 0,
+  "ms": 430
+ },
+ {
+  "bot": "rule",
+  "seed": 168,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 118,
+  "errors": 0,
+  "ms": 335
+ },
+ {
+  "bot": "rule",
+  "seed": 169,
+  "won": true,
+  "wave": 10,
+  "hp": 36,
+  "steps": 113,
+  "errors": 0,
+  "ms": 392
+ },
+ {
+  "bot": "rule",
+  "seed": 170,
+  "won": true,
+  "wave": 10,
+  "hp": 31,
+  "steps": 110,
+  "errors": 0,
+  "ms": 345
+ },
+ {
+  "bot": "rule",
+  "seed": 171,
+  "won": true,
+  "wave": 10,
+  "hp": 45,
+  "steps": 112,
+  "errors": 0,
+  "ms": 344
+ },
+ {
+  "bot": "rule",
+  "seed": 172,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 96,
+  "errors": 0,
+  "ms": 266
+ },
+ {
+  "bot": "rule",
+  "seed": 173,
+  "won": true,
+  "wave": 10,
+  "hp": 12,
+  "steps": 117,
+  "errors": 0,
+  "ms": 396
+ },
+ {
+  "bot": "rule",
+  "seed": 174,
+  "won": true,
+  "wave": 10,
+  "hp": 20,
+  "steps": 106,
+  "errors": 0,
+  "ms": 477
+ },
+ {
+  "bot": "rule",
+  "seed": 175,
+  "won": true,
+  "wave": 10,
+  "hp": 36,
+  "steps": 98,
+  "errors": 0,
+  "ms": 376
+ },
+ {
+  "bot": "rule",
+  "seed": 176,
+  "won": true,
+  "wave": 10,
+  "hp": 27,
+  "steps": 102,
+  "errors": 0,
+  "ms": 365
+ },
+ {
+  "bot": "rule",
+  "seed": 177,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 98,
+  "errors": 0,
+  "ms": 307
+ },
+ {
+  "bot": "rule",
+  "seed": 178,
+  "won": true,
+  "wave": 10,
+  "hp": 26,
+  "steps": 109,
+  "errors": 0,
+  "ms": 358
+ },
+ {
+  "bot": "rule",
+  "seed": 179,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 109,
+  "errors": 0,
+  "ms": 430
+ },
+ {
+  "bot": "rule",
+  "seed": 180,
+  "won": true,
+  "wave": 10,
+  "hp": 35,
+  "steps": 109,
+  "errors": 0,
+  "ms": 386
+ },
+ {
+  "bot": "rule",
+  "seed": 181,
+  "won": true,
+  "wave": 10,
+  "hp": 46,
+  "steps": 93,
+  "errors": 0,
+  "ms": 287
+ },
+ {
+  "bot": "rule",
+  "seed": 182,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 111,
+  "errors": 0,
+  "ms": 263
+ },
+ {
+  "bot": "rule",
+  "seed": 183,
+  "won": false,
+  "wave": 7,
+  "hp": 0,
+  "steps": 75,
+  "errors": 0,
+  "ms": 224
+ },
+ {
+  "bot": "rule",
+  "seed": 184,
+  "won": true,
+  "wave": 10,
+  "hp": 16,
+  "steps": 114,
+  "errors": 0,
+  "ms": 388
+ },
+ {
+  "bot": "rule",
+  "seed": 185,
+  "won": true,
+  "wave": 10,
+  "hp": 43,
+  "steps": 110,
+  "errors": 0,
+  "ms": 351
+ },
+ {
+  "bot": "rule",
+  "seed": 186,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 121,
+  "errors": 0,
+  "ms": 505
+ },
+ {
+  "bot": "rule",
+  "seed": 187,
+  "won": true,
+  "wave": 10,
+  "hp": 13,
+  "steps": 108,
+  "errors": 0,
+  "ms": 489
+ },
+ {
+  "bot": "rule",
+  "seed": 188,
+  "won": true,
+  "wave": 10,
+  "hp": 29,
+  "steps": 105,
+  "errors": 0,
+  "ms": 275
+ },
+ {
+  "bot": "rule",
+  "seed": 189,
+  "won": true,
+  "wave": 10,
+  "hp": 49,
+  "steps": 95,
+  "errors": 0,
+  "ms": 247
+ },
+ {
+  "bot": "rule",
+  "seed": 190,
+  "won": false,
+  "wave": 9,
+  "hp": 0,
+  "steps": 122,
+  "errors": 0,
+  "ms": 649
+ },
+ {
+  "bot": "rule",
+  "seed": 191,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 98,
+  "errors": 0,
+  "ms": 304
+ },
+ {
+  "bot": "rule",
+  "seed": 192,
+  "won": false,
+  "wave": 9,
+  "hp": 0,
+  "steps": 114,
+  "errors": 0,
+  "ms": 933
+ },
+ {
+  "bot": "rule",
+  "seed": 193,
+  "won": true,
+  "wave": 10,
+  "hp": 48,
+  "steps": 103,
+  "errors": 0,
+  "ms": 300
+ },
+ {
+  "bot": "rule",
+  "seed": 194,
+  "won": false,
+  "wave": 7,
+  "hp": 0,
+  "steps": 74,
+  "errors": 0,
+  "ms": 380
+ },
+ {
+  "bot": "rule",
+  "seed": 195,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 108,
+  "errors": 0,
+  "ms": 348
+ },
+ {
+  "bot": "rule",
+  "seed": 196,
+  "won": false,
+  "wave": 8,
+  "hp": 0,
+  "steps": 89,
+  "errors": 0,
+  "ms": 343
+ },
+ {
+  "bot": "rule",
+  "seed": 197,
+  "won": true,
+  "wave": 10,
+  "hp": 50,
+  "steps": 115,
+  "errors": 0,
+  "ms": 497
+ },
+ {
+  "bot": "rule",
+  "seed": 198,
+  "won": true,
+  "wave": 10,
+  "hp": 31,
+  "steps": 110,
+  "errors": 0,
+  "ms": 298
+ },
+ {
+  "bot": "rule",
+  "seed": 199,
+  "won": true,
+  "wave": 10,
+  "hp": 23,
+  "steps": 102,
+  "errors": 0,
+  "ms": 301
+ },
+ {
+  "bot": "rule",
+  "seed": 200,
+  "won": true,
+  "wave": 10,
+  "hp": 32,
+  "steps": 106,
+  "errors": 0,
+  "ms": 368
+ }
+]

@@ -1,0 +1,4 @@
+target,baseline_MAPE_%,model_MAPE_%,gain_pp,gain_95CI_lo_pp,gain_95CI_hi_pp,model_better_games,baseline_bias_%,model_bias_%,model_90PI_coverage,baseline_90PI_coverage,model_90PI_halfwidth_%
+d7,4.532,3.48,1.051,0.249,1.852,29,1.324,0.137,0.889,0.889,8.868
+d30,7.954,6.609,1.345,-0.007,2.735,28,2.461,0.038,0.889,0.889,15.131
+ltv30,3.848,3.072,0.776,0.171,1.392,29,0.311,-0.676,0.889,0.889,7.618

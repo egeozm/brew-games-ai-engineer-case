@@ -1,0 +1,10 @@
+bot       games  unpowered_weapon  idle_soldier      useless_buff      fought_known_loss blind_losing_fightsoldier_merge     illegal_actions     (share of build phases with >=1 / total count)
+                 losing wave: {"blind_fight_into_loss":22,"no_working_weapon":11,"gold_5plus_unspent":17,"forced_by_call_cap":4,"illegal_action_in_losing_wave":23}
+llm_v1    30     32/106 (34)       42/106 (59)       48/106 (59)       30/106 (30)       22/106 (22)       46/106 (60)       57/106 (163)      
+                 lost games: 15/30 lost games: 25/30 lost games: 17/30 lost games: 30/30 lost games: 22/30 lost games: 23/30 lost games: 27/30 
+                 losing wave: {"blind_fight_into_loss":0,"no_working_weapon":10,"gold_5plus_unspent":10,"forced_by_call_cap":16,"illegal_action_in_losing_wave":30}
+llm_v2    30     32/113 (34)       34/113 (37)       60/113 (72)       30/113 (30)       0/113 (0)         60/113 (91)       66/113 (233)      
+                 lost games: 15/30 lost games: 22/30 lost games: 21/30 lost games: 30/30 lost games: 0/30  lost games: 29/30 lost games: 30/30 
+                 losing wave: {"blind_fight_into_loss":0,"no_working_weapon":0,"gold_5plus_unspent":0,"forced_by_call_cap":0,"illegal_action_in_losing_wave":0}
+rule      200    150/1961 (162)    455/1961 (802)    5/1961 (5)        21/1961 (21)      0/1961 (0)        423/1961 (548)    0/1961 (0)        
+                 lost games: 11/21 lost games: 18/21 lost games: 0/21  lost games: 21/21 lost games: 0/21  lost games: 20/21 lost games: 0/21  
